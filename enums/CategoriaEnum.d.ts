@@ -1,0 +1,10 @@
+export declare enum CategoriaEnum {
+    LEGUMBRES = "LEGUMBRES",
+    FRUTAS = "FRUTAS",
+    HORTALIZAS = "HORTALIZAS",
+    TUBERCULOS = "TUBERCULOS",
+    ABARROTES = "ABARROTES",
+    CONDIMENTOS = "CONDIMENTOS",
+    SALSAS = "SALSAS",
+    LACTEOS = "LACTEOS"
+}
